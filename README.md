@@ -5,5 +5,5 @@
 ##Tema 4: Programación básica de aplicaciones en PHP
 * **Practica 3.1** [Imagen aleatoria](3-php-basico/practica-3-1/) 
 * **Practica 3.2** [Cálculo de salario](3-php-basico/practica-3-2/) 
-* **Practica 3.4** [Saber si hay un número](3-php-basico/practica-3-3/) 
+* **Practica 3.3** [Saber si hay un número](3-php-basico/practica-3-3/) 
 
