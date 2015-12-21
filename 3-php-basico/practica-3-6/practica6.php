@@ -7,6 +7,9 @@
         .error{
             color:red;
         }
+        table{
+            width:100%;
+        }
         td{
             border:1px solid black;
         }
