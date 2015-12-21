@@ -1,0 +1,26 @@
+.error{
+    background-color: red;
+    color:white;
+    font-weight: bold;
+}
+.tachado{
+    text-decoration: line-through;
+}
+table{
+    border-collapse: collapse;
+    width:100%;
+}
+th{
+    background-color: black;
+    color:#ffffff;
+}
+tr:nth-last-of-type(even){
+    background-color: #CCC;
+}
+td{
+    text-align: center;
+}
+td:first-of-type{
+    text-align: left;
+    font-weight: bold;
+}

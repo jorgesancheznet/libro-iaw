@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<title>Práctica 4.6. Encripación César</title>
+</head>
+<body>
+	<h1>Encriptado y desencriptado tipo César </h1>
+	<form action="practica6.php" method="POST">
+		<label for="texto">Escriba el texto a encriptar o desencriptar</label><br>
+		<textarea name="texto" id="texto" cols="60" rows="10"></textarea>
+		<fieldset>
+			<legend>Elija lo que desea</legend>
+			<input type="radio" id="encriptar" name="opcion" value="e" checked="checked">
+			<label for="encriptar">Encriptar</label>
+			<input type="radio" id="desencriptar" name="opcion" value="d">
+			<label for="desencriptar">Desencriptar</label>
+		</fieldset>
+		<label for="clave">Escriba la clave</label>
+		<input type="number" name="clave" id="clave" maxlength="20"
+			   pattern="[1-9][0,9]?"><br>
+		<input type="submit">
+	</form>
+</body>
+</html>

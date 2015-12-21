@@ -1,0 +1,1 @@
+ALTER TABLE mensajes ADD nuevo BOOLEAN DEFAULT TRUE;

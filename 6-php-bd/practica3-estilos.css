@@ -1,0 +1,28 @@
+#izda{
+    float:left;
+    width:50%;
+    max-height:600px;
+    overflow-y: auto;
+}
+#dcha{
+    float:left;
+    width:50%;
+}
+#cerrar {
+    float:left;
+    width:100%;
+}
+#error {
+    float:left;
+    width:100%;
+    background-color: red;
+    color:white;
+    margin-top:4em;
+}
+.error{
+    float:left;
+    color:red;
+}
+h1{
+    text-align: center;
+}
