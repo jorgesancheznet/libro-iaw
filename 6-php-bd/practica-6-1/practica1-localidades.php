@@ -11,7 +11,7 @@ if(isset($_GET["provincia"])==false){
     header("Location:provincias-practica1.php");
 }
 else {
-    $mysqli = new mysqli("127.0.0.1", "root", "root", "geografia");
+    $mysqli = new mysqli("127.0.0.1", "root", "", "geografia");
     if ($mysqli) {
         //hemos recibido la provincia , buscamos sus localidades
         $provincia = $_GET["provincia"];

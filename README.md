@@ -37,3 +37,19 @@
 * **Practica 5.4** [Lista tareas](5-php-intercambio/practica-5-4/) 
 * **Practica 5.5** [Juego visual](5-php-intercambio/practica-5-5/) 
 * **Practica 5.6** [Selección de tono](5-php-intercambio/practica-5-6/) 
+
+##Tema 6: Acceso a bases de datos mediante PHP
+
+Para que algunas prácticas funcionen debemos descargar instalar los archivos de la 
+base de datos [geografia](6-php-bd/geografia)  
+
+El código ha utilizado el usuario genérico root, sin contraseña 
+que es lo habitual (pero en absoluto lo recomendable) en
+una instalación MySQL sin asegurar. Lo lógico es crear un
+usuario específico para la base de datos y darle contraseña segura.
+
+* **Practica 6.1** [Búsqueda de datos de localidades](6-php-bd/practica-6-1/)
+* **Practica 6.2** [Paginacion](6-php-bd/practica-6-2/)
+* **Practica 6.3** [Servicio de mensajería](6-php-bd/practica-6-3/)
+* **Practica 6.4** [Servicio de mensajería v2](6-php-bd/practica-6-4/)
+ 

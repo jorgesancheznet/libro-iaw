@@ -7,7 +7,7 @@ if(isset($_POST["id_remite"]) && isset($_POST["texto"])
     $texto=$_POST["texto"];
     $error=0;
     //búsqueda del destinatario
-    $mysqli = new mysqli("127.0.0.1", "root", "Cerrato", "mensajes");
+    $mysqli = new mysqli("127.0.0.1", "root", "", "mensajes");
     if ($mysqli) {
         $sql = "SELECT usuario,id_usuario FROM usuarios " .
             "WHERE usuario='$destinatario'";

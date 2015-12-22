@@ -7,7 +7,7 @@ if(isset($_SESSION["usuario"])==false)
 else
     //buscamos a ver si ese usuario existe
     $usuario=$_SESSION["usuario"];
-$mysqli = new mysqli("127.0.0.1", "root", "Cerrato", "mensajes");
+$mysqli = new mysqli("127.0.0.1", "root", "", "mensajes");
 if ($mysqli) {
     $sql = "SELECT usuario,id_usuario FROM usuarios " .
         "WHERE usuario='$usuario'";

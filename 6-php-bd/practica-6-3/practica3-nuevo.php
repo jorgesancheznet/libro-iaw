@@ -14,7 +14,7 @@ if(isset($_POST["usuario"]) &&
     if(preg_match("/(*UTF8)^[\p{L}\p{N}]{1,30}$/",$usuario)) {
         if ($password == $password2) {
             if(strlen($password)>=6) {
-                $mysqli = new mysqli("127.0.0.1", "root", "Cerrato", "mensajes");
+                $mysqli = new mysqli("127.0.0.1", "root", "", "mensajes");
                 if ($mysqli) {
                     $cifrada = password_hash($password, PASSWORD_DEFAULT);
                     $sql = "INSERT INTO usuarios(usuario,pass) " .

@@ -39,7 +39,7 @@
 if (isset($_GET["provincia"])==false)
     header("Location:form-practica1.php");
 else {
-    $mysqli = new mysqli("127.0.0.1", "root", "Cerrato", "geografia");
+    $mysqli = new mysqli("127.0.0.1", "root", "", "geografia");
     if ($mysqli) {
         $provincia = $_GET["provincia"];
         //paso a mayúsculas de la provincia

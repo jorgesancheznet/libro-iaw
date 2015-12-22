@@ -10,7 +10,7 @@
 <?php
 //conexión a  la base de datos, la haremos de
 // tipo persistente por eso no la cerramos
-$mysqli=new mysqli("127.0.0.1","root","root","geografia");
+$mysqli=new mysqli("127.0.0.1","root","","geografia");
 if($mysqli) {
     $res=$mysqli->query("SELECT nombre FROM comunidades ORDER BY nombre");
     if($res) {

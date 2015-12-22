@@ -14,7 +14,7 @@ else
 </head>
 <body>
 <?php
-$mysqli=new mysqli("127.0.0.1","root","root","geografia");
+$mysqli=new mysqli("127.0.0.1","root","","geografia");
 if($mysqli) {
     $sql="SELECT p.nombre provincia,c.nombre comunidad ".
          "FROM provincias p ".
