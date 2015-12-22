@@ -1,6 +1,6 @@
 <?php
 //cálculo de las 10 primeras franjas
-//el array contendrá 10 capas (div) usando
+//el array contendrá 10 capas(div) usando
 //el atributo style con el color aleatorio
 //de cada franja
 $arraycolor=array();
