@@ -29,3 +29,11 @@
 * **Practica 4.9** [Validar emails](4-php-avanzado/practica-4-9/) 
 * **Practica 4.10** [Primitiva](4-php-avanzado/practica-4-10/) 
 * **Practica 4.11** [Validación avanzada](4-php-avanzado/practica-4-11/) 
+
+##Tema 5: Intercambio de información entre páginas web con PHP
+* **Practica 5.1** [Preferencias de usuario con cookies](5-php-intercambio/practica-5-1/) 
+* **Practica 5.2** [Preferencias de usuario con sesiones](5-php-intercambio/practica-5-2/) 
+* **Practica 5.3** [Zona restringida](5-php-intercambio/practica-5-3/) 
+* **Practica 5.4** [Lista tareas](5-php-intercambio/practica-5-4/) 
+* **Practica 5.5** [Juego visual](5-php-intercambio/practica-5-5/) 
+* **Practica 5.6** [Selección de tono](5-php-intercambio/practica-5-6/) 

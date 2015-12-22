@@ -1,4 +1,4 @@
-# Práctica 4.10 - Validar emails
+# Práctica 4.10 - Primitiva
 
 Archivos:
 * **practica10.php** Código completo

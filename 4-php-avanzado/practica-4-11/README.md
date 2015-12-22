@@ -1,4 +1,4 @@
-# Práctica 4.10 - Validar emails
+# Práctica 4.10 - Validación avanzada
 
 Archivos:
 * **practica11-constantes.php** Código de errores y mensajes
