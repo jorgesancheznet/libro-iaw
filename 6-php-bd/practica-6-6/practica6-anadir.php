@@ -7,7 +7,7 @@ else{
     header("location:practica6-index.php");
 }
 
-$mysqli=new mysqli("127.0.0.1", "root", "Cerrato", "cursos");
+$mysqli=new mysqli("127.0.0.1", "root", "", "cursos");
 if($mysqli){
     $sql="UPDATE cursos ".
         "SET plazas_ocupadas=plazas_ocupadas+1 ".

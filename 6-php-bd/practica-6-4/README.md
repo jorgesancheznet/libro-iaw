@@ -1,4 +1,4 @@
-# Práctica 6.3 - Servicio de mensajería
+# Práctica 6.4 - Servicio de mensajería v2.0
 
 Archivos:
 * **practica4-sql.sql**. Código SQL que crea la base de datos

@@ -1,7 +1,7 @@
 <?php
 $error="";
 $res=null;
-$mysqli=new mysqli("127.0.0.1", "root", "Cerrato", "cursos");
+$mysqli=new mysqli("127.0.0.1", "root", "", "cursos");
 if($mysqli){
     $sql = "SELECT id_curso,curso,plazas_totales,plazas_ocupadas, ".
         "plazas_totales-plazas_ocupadas as plazas_disponibles ".

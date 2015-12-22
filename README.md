@@ -52,4 +52,5 @@ usuario específico para la base de datos y darle contraseña segura.
 * **Practica 6.2** [Paginacion](6-php-bd/practica-6-2/)
 * **Practica 6.3** [Servicio de mensajería](6-php-bd/practica-6-3/)
 * **Practica 6.4** [Servicio de mensajería v2](6-php-bd/practica-6-4/)
+* **Practica 6.5** [Juego geográfico](6-php-bd/practica-6-5/)
  

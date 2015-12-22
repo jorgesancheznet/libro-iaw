@@ -17,7 +17,7 @@ $_SESSION["intentos"]=++$intentos;
 
 
 
-$mysqli = new mysqli("127.0.0.1", "root", "Cerrato", "geografia");
+$mysqli = new mysqli("127.0.0.1", "root", "", "geografia");
 $error=false;
 if ($mysqli) {
     $sql = "SELECT id_localidad, l.nombre as localidad, ".
