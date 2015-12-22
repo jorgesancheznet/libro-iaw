@@ -17,11 +17,6 @@
             color:white;
             font-weight: bold;
         }
-        .error{
-            font-weight:bold;
-            background-color:#660000;
-            color:white;
-        }
     </style>
 </head>
 <body>

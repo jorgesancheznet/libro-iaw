@@ -17,3 +17,15 @@
 * **Practica 3.12** [Cuadraditos aleatorios](3-php-basico/practica-3-12/) 
 * **Practica 3.13** [Tabla ASCII](3-php-basico/practica-3-13/) 
 
+##Tema 4: Programación avanzada de aplicaciones en PHP
+* **Practica 4.1** [Formulario con arrays](4-php-avanzado/practica-4-1/) 
+* **Practica 4.2** [Clasificación liga](4-php-avanzado/practica-4-2/)
+* **Practica 4.3** [Bandas aleatorias](4-php-avanzado/practica-4-3/) 
+* **Practica 4.4** [Función de escritura de tablas](4-php-avanzado/practica-4-4/) 
+* **Practica 4.5** [Validación de NIF](4-php-avanzado/practica-4-5/) 
+* **Practica 4.6** [Cifrado Cesar](4-php-avanzado/practica-4-6/) 
+* **Practica 4.7** [Palídromos](4-php-avanzado/practica-4-7/) 
+* **Practica 4.8** [Anagramas](4-php-avanzado/practica-4-8/) 
+* **Practica 4.9** [Validar emails](4-php-avanzado/practica-4-9/) 
+* **Practica 4.10** [Primitiva](4-php-avanzado/practica-4-10/) 
+* **Practica 4.11** [Validación avanzada](4-php-avanzado/practica-4-11/) 

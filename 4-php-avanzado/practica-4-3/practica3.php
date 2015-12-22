@@ -3,6 +3,7 @@
 //el array contendrá 10 capas (div) usando
 //el atributo style con el color aleatorio
 //de cada franja
+$arraycolor=array();
 for($i=0;$i<10;$i++){
     $rojo=mt_rand(0,255);
     $verde=mt_rand(0,255);

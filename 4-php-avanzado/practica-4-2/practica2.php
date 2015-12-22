@@ -22,7 +22,6 @@ $listaEquipos=array(
     "Córdoba"=>20
 );
 
-
 arsort($listaEquipos);//ordeno la lista de equipos por puntos
 //el array clasificacion contendrá la lista ordenada de equipos por puntos
 //pero no almacena los puntos en sí
@@ -35,7 +34,7 @@ $clasificacion=array_keys($listaEquipos);
     <title>Clasificación</title>
 </head>
 <body>
-<form action="equipos.php" method="post">
+<form action="practica2.php" method="post">
     <label for="equipo">Elija el equipo</label>
     <select name="equipo" id="equipo">
     <?php

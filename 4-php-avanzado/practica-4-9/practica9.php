@@ -1,6 +1,5 @@
 <?php
 function mailValido($array){
-    $simTexto="0-9a-zA-Z_";
     $patron="/^([0-9a-zA-Z_]+(\.[0-9a-zA-Z_])*)+@".
         "((gmail\.com)|(yahoo\.com)|(yahoo\.es)|(hotmail\.com))$/";
     reset($array);
