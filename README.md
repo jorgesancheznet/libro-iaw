@@ -1,7 +1,6 @@
 #Código de los ejercicios del libro Implantaciones de Aplicaciones Web de Jorge Sánchez Asenjo
 
-[Enlace al libro](http://www.garceta.es/libro.php?ISBN=978-84-1622-830-0)
-
+[Enlace al libro](http://www.jorgesanchez.net/libro-iaw)
 ##Tema 3: Programación básica de aplicaciones en PHP
 * **Practica 3.1** [Imagen aleatoria](3-php-basico/practica-3-1/) 
 * **Practica 3.2** [Cálculo de salario](3-php-basico/practica-3-2/) 
