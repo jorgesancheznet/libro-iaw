@@ -57,7 +57,7 @@ else $error+=E_FALTA_EMAIL;
 //validación del modelo
 if(isset($_GET["modelo"])) {
     $modelo = $_GET["modelo"];
-    if(preg_match("/^[0-9]{3}[A-Z]{2}$/",
+    if(preg_match("/^[A-Z]{3}[0-9]{4}$/",
             $modelo) == false){
         $error+=E_MODELO_INCORRECTO;
     }

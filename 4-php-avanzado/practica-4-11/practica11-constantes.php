@@ -24,7 +24,7 @@ const MENSAJE_ERROR=array(
     E_FALTA_MODELO=>"No se indicó el modelo",
     E_MODELO_INCORRECTO=>"El modelo no es válido (deberían ser tres números y dos letras)",
     E_FALTA_SERIE=>"No se indicó el número de serie",
-    E_MODELO_INCORRECTO=>"El nº de serie no es válido"
+    E_SERIE_INCORRECTO=>"El nº de serie no es válido",
 );
 
 
